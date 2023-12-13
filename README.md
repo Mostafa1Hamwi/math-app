@@ -1,6 +1,6 @@
 # math-quiz
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Math-Quiz app using Vue 3
 
 ## Recommended IDE Setup
 
